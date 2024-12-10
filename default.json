@@ -1,11 +1,8 @@
-{
-  "parts": 3,
+r{
+  "parts": 2,
   "order": "WESTERN",
   "male_firstname": [
-      "Aarav", "Aaron", "Aayan", "Abdiel", "Alain", "Aaliyah", "Abdullah", "Abel", "Abraham", "Abram", "Ace", "Adam", "Adan", "Aden",  "Adonis", "Adrian", "Adriel", "Adrien",
-      "Ahmad", "Ahmed", "Ahmir", "Aidan", "Aiden", "Akeno", "Alan", "Alaric", "Albert", "Alberto", "Alden", "Aldo", "Alec", "Alejandro", "Alessandro", "Alex", "Alexander",
-      "Alexis", "Alexzander", "Alfonso", "Alfred", "Alfredo", "Ali", "Alijah", "Alistair", "Allan", "Allen", "Alonso", "Alonzo", "Alvaro", "Alvin", "Amari", "Ambrose", "Ameer",
-      "Amherst", "Amias", "Amir", "Amos", "Amrith", "Anakin", "Anders", "Anderson", "Andre", "Andres", "Andrew", "Andy", "Angel", "Angelo", "Anson", "Anthony", "Antonio",
+      "Abner", "Abel", "Ace", "Adam", "Adonis", "Adriano", "Alan", "Alberto", "Alek",  "Alessandro", "Alex", "Alexandre", "Alfonso", "Alfred", "Alfredo", "Alistar", "Alonço", "Alvaro", "Alvin", "Anakin", "Anderson", "André", "Ângelo", "Anthony", "Antônio", 
       "Apollo", "Archer", "Archie", "Ares", "Ari", "Arian", "Ariel", "Aries", "Arjun", "Arlo", "Armando", "Armani", "Aroon", "Aron", "Arthur", "Arturo", "Aryan", "Asa", "Asher",
       "Ashton", "Atlas", "Atreus", "Atticus", "August", "Augustine", "Augustus", "Austin", "Avery", "Axel", "Axl", "Axton", "Ayaan", "Ayan", "Ayden", "Aydin", "Azariah", "Aziel",
       "Azrael", "Baker", "Banks", "Barnaby", "Barrett", "Bartholomew", "Baylor", "Bear", "Beau", "Beckett", "Beckham", "Bellamy", "Ben", "Benedict", "Benicio", "Benjamin",
